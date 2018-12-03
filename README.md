@@ -71,7 +71,7 @@ unapalabra
 muuuuchas palabras, muchas, muchas...
 ```
 
-Exercise 4
+#### Exercise 4
 Given two text fles “f1.txt” and “f2.txt”, in which each
 line is a series of numbers separated by “:”, and assuming
 that the lines are in ascending order by the frst number,
